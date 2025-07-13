@@ -40,7 +40,7 @@
 
 🔬 **[Automatic Identification of Lung Opacities Due to COVID-19 from Chest X-ray Images—Focusing Attention on the Lungs](https://github.com/alvaromoureupm/Lung_lessions_COVID19)**  
 A deep learning model with attention mechanisms trained to detect COVID-19 lung opacities from X-rays using PyTorch.  
-👉 **[Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach](https://github.com/BYO-UPM/CT-COVID)**
+👉 **[Bayesian automatic screening of pneumonia and lung lesions localization from CT scans. A combined method toward a more user-centred and explainable approach](https://www.biorxiv.org/content/10.1101/2025.04.08.647710v1.full.pdf)**
 
 📌 *(More paper repositories will appear here as I publish them)*
 
